@@ -1,0 +1,145 @@
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGameDesktopGL.exe
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGameDesktopGL.deps.json
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGameDesktopGL.runtimeconfig.json
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGameDesktopGL.runtimeconfig.dev.json
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGameDesktopGL.dll
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGameDesktopGL.pdb
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.csproj.AssemblyReference.cache
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.AssemblyInfoInputs.cache
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.AssemblyInfo.cs
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.csproj.CoreCompileInputs.cache
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.csproj.CopyComplete
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.dll
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.pdb
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.genruntimeconfig.cache
+D:\CARLOS CARO\MONOGAME\MonoGameDesktopGL-master\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\choco.png
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\choco.png
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGameDesktopGL.exe
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGameDesktopGL.deps.json
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGameDesktopGL.runtimeconfig.json
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGameDesktopGL.runtimeconfig.dev.json
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGameDesktopGL.dll
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGameDesktopGL.pdb
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.csproj.AssemblyReference.cache
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.AssemblyInfoInputs.cache
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.AssemblyInfo.cs
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.csproj.CoreCompileInputs.cache
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.csproj.CopyComplete
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.dll
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.pdb
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.genruntimeconfig.cache
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\1477232.png
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\chapulin.png
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\bg.jpg
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\bg1.jpg
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\FONT.xnb
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\bala.png
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\bg2.jpg
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\enemy1.png
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\enemy2.png
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\nave.png
+D:\CARLOS CARO\MONOGAME\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\enemy3.png
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\choco.png
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\1477232.png
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\bala.png
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\bg.jpg
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\bg1.jpg
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\bg2.jpg
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\chapulin.png
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\enemy1.png
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\enemy2.png
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\enemy3.png
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\FONT.xnb
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\nave.png
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\kunai.png
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\linkuei.png
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\MK.jpg
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\scor.png
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGameDesktopGL.exe
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGameDesktopGL.deps.json
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGameDesktopGL.runtimeconfig.json
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGameDesktopGL.runtimeconfig.dev.json
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGameDesktopGL.dll
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGameDesktopGL.pdb
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.csproj.AssemblyReference.cache
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.AssemblyInfoInputs.cache
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.AssemblyInfo.cs
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.csproj.CopyComplete
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.dll
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.pdb
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.genruntimeconfig.cache
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\Baraka.png
+C:\Users\Carlo\Downloads\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\Cyrax.png
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\choco.png
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\1477232.png
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\bala.png
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\Baraka.png
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\bg.jpg
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\bg1.jpg
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\bg2.jpg
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\chapulin.png
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\Cyrax.png
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\enemy1.png
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\enemy2.png
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\enemy3.png
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\FONT.xnb
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\kunai.png
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\linkuei.png
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\MK.jpg
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\nave.png
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\Content\scor.png
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGameDesktopGL.exe
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGameDesktopGL.deps.json
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGameDesktopGL.runtimeconfig.json
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGameDesktopGL.runtimeconfig.dev.json
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGameDesktopGL.dll
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGameDesktopGL.pdb
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.csproj.AssemblyReference.cache
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.AssemblyInfoInputs.cache
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.AssemblyInfo.cs
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.csproj.CopyComplete
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.dll
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.pdb
+C:\Users\Carlo\Documents\Nueva carpeta\MonoNET2\MonoNET\MonoGameDesktopGL\obj\Debug\netcoreapp3.1\MonoGameDesktopGL.genruntimeconfig.cache
